@@ -1,1 +1,4 @@
-a file for shapes
+- Square
+- Circle
+- Triangle
+- Parallelogram
